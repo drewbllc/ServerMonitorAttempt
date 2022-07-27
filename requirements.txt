@@ -1,0 +1,8 @@
+requests==2.22.0
+certifi==2018.10.15
+chardet==3.0.4
+idna==2.7
+urllib3==1.24.2
+discord.py==1.5.0
+discord==1.0.1
+PyYAML==5.3.1
