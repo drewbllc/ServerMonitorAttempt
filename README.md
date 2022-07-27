@@ -13,6 +13,6 @@ Create Virtual Env
 3) pip3 install -r requirements.txt
 4) python setup.py
 5) apt install mailutils (not sure why, errored when it wasnt installed)
-6) edit/configure web_server_test.yaml
+6) edit/configure server.yaml
 7) edit/configure .uptimerobot.ini
 8) test with python test_run.py
