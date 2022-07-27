@@ -3,6 +3,7 @@ Source credits:
   &
   - https://github.com/jpavlav/UptimeRobotPy
  
+[Not working, in progress.]
  
 Install steps:
 
